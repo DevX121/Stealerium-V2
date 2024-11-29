@@ -35,8 +35,6 @@ Discord, Telegram, ICQ, Skype, Pidgin, Outlook, Tox, Element, Signal, etc.
  Process List
  Product Key
  Autorun Module
-🔥 Features
-These functions are available in the builder only if autorun is enabled:
 
 🎹 Keylogger: Activates when the user types in chat or accesses a banking website.
 📋 Clipper: Engages and alters crypto wallet addresses in the clipboard during transactions.
