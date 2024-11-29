@@ -83,14 +83,23 @@ Hit Build and enjoy!
 
 --------------------------------------------------------------------------------------------------------------------------------
 Features
+
 discord grabber + auto buy nitro and claim to your set account
+
 minecraft grabber
+
 roblox grabber
+
 Exodus seed/phrase grabber
+
 telegram session logger
+
 🎹 Keylogger: Activates when the user types in chat or accesses a banking website.
+
 📋 Clipper: Engages and alters crypto wallet addresses in the clipboard during transactions.
+
 📷 Webcam Screenshots: Captured if the user views inappropriate content online.
+
 much much more and more coming soon.
 ------------------------------------------------------------------------------------------------------
 
