@@ -2,7 +2,7 @@
      
 ![image](https://github.com/user-attachments/assets/d7dfc704-3c55-40b3-afb5-426fddd86e95)
 
-  contact me - https://t.me/stealeriumV2 to buy premium or if you need help
+ contact me - https://t.me/stealeriumV2 to buy premium or if you need help
 prem - FUD mac and windows availabilty and more features
 
 A Stealer written in C#, designed to send logs to your Telegram bot and or discord webhook.
